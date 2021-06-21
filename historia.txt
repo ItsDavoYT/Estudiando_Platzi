@@ -1,0 +1,1 @@
+Esta es una historia basica para ver el funcionamiento de git
